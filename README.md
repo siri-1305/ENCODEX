@@ -17,7 +17,7 @@ It supports **Binary, ASCII, Base64, Hex, XOR, Base32, and ROT13**, with a menu-
 ## Installation
 
 ```bash
-git clone https://github.com/<your-github-username>/ENCODEX.git
+git clone https://github.com/siri-1305/ENCODEX.git
 cd ENCODEX
 chmod +x ENCODEX.sh
 ./ENCODEX.sh
